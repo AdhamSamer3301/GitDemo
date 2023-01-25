@@ -1,3 +1,8 @@
 import UIKit
 
-var greeting = "Hello, playground"
+//Ahmad Ayman Method
+//i add more details 
+func HelloAhmad() {
+    
+    print("Hello Ahmad Ayman!")
+}

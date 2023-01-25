@@ -1,3 +1,7 @@
 import UIKit
 
-var greeting = "Hello, playground"
+func printAdham(){
+    print("Adham")
+}
+
+printAdham()
